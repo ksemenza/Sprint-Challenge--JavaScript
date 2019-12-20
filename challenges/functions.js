@@ -64,4 +64,3 @@
       nestedFunction();
     }
     myFunction();
-    
